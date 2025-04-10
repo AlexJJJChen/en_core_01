@@ -1,0 +1,4 @@
+original_directory=stanza_resources
+original_md5=6ff2c48c33f954cf4436d023b4b72b89
+total_parts=47
+part_size=24023040
