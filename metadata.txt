@@ -1,4 +1,0 @@
-original_directory=model
-original_md5=196a0875625c1fdf1da7e56d865c1dd2
-total_parts=278
-part_size=24023040
